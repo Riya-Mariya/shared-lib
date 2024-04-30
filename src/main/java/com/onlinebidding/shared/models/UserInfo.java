@@ -25,4 +25,5 @@ public class UserInfo {
     private String emailId;
     private String contactNumber;
     private LocalDate createdDate;
+    private String name;
 }
